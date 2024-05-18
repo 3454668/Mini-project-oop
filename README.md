@@ -15,9 +15,8 @@ After that will have git file in my Folder
 
 # Download G++
 
-i will try on problem 1
 
-g++ Problem 01.cpp
+g++ code
 
 # Result 
-a.exe
+
